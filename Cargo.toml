@@ -1,0 +1,6 @@
+[package]
+name = "tutorial-rust-docker"
+version = "0.1.0"
+authors = ["Mike Sparr <msparr@gmail.com>"]
+
+[dependencies]
